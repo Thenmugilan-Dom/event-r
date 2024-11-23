@@ -1,0 +1,12 @@
+/event-registration
+  /assets
+    - style.css
+  /includes
+    - db.php
+  /public
+    - index.php
+    - login.php
+    - signup.php
+    - event_registration.php
+  /templates
+    - header.php
